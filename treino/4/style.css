@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header{
+    font-size: 22px;
+    text-align: left;
+    padding: 10px;
+}
+
+header > nav{
+    background-color: rgb(245, 167, 136);
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+header > nav > a{
+    text-decoration: none;
+    margin-right: 40px;
+    margin-left: 20px;
+    color: rgb(255, 120, 66);
+}
+header > nav > a:hover{
+    color: aqua;
+}
+
+main > h1{
+    text-align: center;
+    color: rgb(255, 120, 66);
+    font-size: 90px;
+    background-color: rgba(241, 177, 152, 0.692);
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

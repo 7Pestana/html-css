@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Area Verde</title>
+    <style>
+        body{
+            background-color: lightgray;
+            font-size: 20px;
+        }
+
+        h1{
+            color: black;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h2{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Desafio da Navegação</h1>
+    <p><strong>Esta é a pagina principal, o indice do seu site. É a página cinza. A partir dela coxe pode acessar as outras areas principais atraves dos links a seguir:</strong></p>
+    <ol>
+        <li><a href="Area Verde">Acessar a área verde</a></li>
+        <li><a href="Area Amarela">Acessar a área amarela</a></li>
+    </ol>
+</body>
+</html>
